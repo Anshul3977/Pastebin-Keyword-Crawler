@@ -6,8 +6,8 @@ A Python script to scrape Pastebin's public archive for pastes containing crypto
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Anshul3977/pastebin-crawler.git
-   cd pastebin-crawler
+   git clone https://github.com/Anshul3977/Pastebin-Keyword-Crawler.git
+   cd Pastebin-Keyword-Crawler
    ```
 
 2. **Install Dependencies**:
