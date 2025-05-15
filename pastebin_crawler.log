@@ -1,0 +1,302 @@
+2025-05-15 21:56:05,841 - INFO - Starting Pastebin Keyword Crawler
+2025-05-15 21:56:06,668 - INFO - Extracted 30 paste IDs from archive
+2025-05-15 21:56:06,669 - INFO - Processing paste 1/30: jUMZ9zDT
+2025-05-15 21:56:08,720 - INFO - Successfully fetched paste jUMZ9zDT
+2025-05-15 21:56:08,724 - INFO - No keywords found in paste jUMZ9zDT
+2025-05-15 21:56:10,725 - INFO - Processing paste 2/30: archive/powershell
+2025-05-15 21:56:12,061 - ERROR - Failed to fetch paste archive/powershell: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/powershell
+2025-05-15 21:56:14,062 - INFO - Processing paste 3/30: Z9jQHybM
+2025-05-15 21:56:15,468 - INFO - Successfully fetched paste Z9jQHybM
+2025-05-15 21:56:15,470 - INFO - Saved match for paste Z9jQHybM with keywords ['t.me']
+2025-05-15 21:56:15,471 - INFO - Found keywords ['t.me'] in paste Z9jQHybM
+2025-05-15 21:56:17,471 - INFO - Processing paste 4/30: archive/javascript
+2025-05-15 21:56:18,849 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:56:20,851 - INFO - Processing paste 5/30: qtA0N9tB
+2025-05-15 21:56:22,218 - INFO - Successfully fetched paste qtA0N9tB
+2025-05-15 21:56:22,219 - INFO - Saved match for paste qtA0N9tB with keywords ['t.me']
+2025-05-15 21:56:22,220 - INFO - Found keywords ['t.me'] in paste qtA0N9tB
+2025-05-15 21:56:24,220 - INFO - Processing paste 6/30: archive/javascript
+2025-05-15 21:56:25,013 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:56:27,015 - INFO - Processing paste 7/30: wiunGJbF
+2025-05-15 21:56:28,402 - INFO - Successfully fetched paste wiunGJbF
+2025-05-15 21:56:28,404 - INFO - Saved match for paste wiunGJbF with keywords ['t.me']
+2025-05-15 21:56:28,404 - INFO - Found keywords ['t.me'] in paste wiunGJbF
+2025-05-15 21:56:30,405 - INFO - Processing paste 8/30: archive/javascript
+2025-05-15 21:56:31,207 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:56:33,208 - INFO - Processing paste 9/30: 3CBkv6K1
+2025-05-15 21:56:34,601 - INFO - Successfully fetched paste 3CBkv6K1
+2025-05-15 21:56:34,603 - INFO - Saved match for paste 3CBkv6K1 with keywords ['t.me']
+2025-05-15 21:56:34,603 - INFO - Found keywords ['t.me'] in paste 3CBkv6K1
+2025-05-15 21:56:36,604 - INFO - Processing paste 10/30: archive/javascript
+2025-05-15 21:56:37,355 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:56:39,357 - INFO - Processing paste 11/30: fhPpM2A6
+2025-05-15 21:56:40,123 - INFO - Successfully fetched paste fhPpM2A6
+2025-05-15 21:56:40,125 - INFO - Saved match for paste fhPpM2A6 with keywords ['t.me']
+2025-05-15 21:56:40,125 - INFO - Found keywords ['t.me'] in paste fhPpM2A6
+2025-05-15 21:56:42,126 - INFO - Processing paste 12/30: archive/javascript
+2025-05-15 21:56:42,874 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:56:44,876 - INFO - Processing paste 13/30: 3AWCY0Mw
+2025-05-15 21:56:46,185 - INFO - Successfully fetched paste 3AWCY0Mw
+2025-05-15 21:56:46,187 - INFO - Saved match for paste 3AWCY0Mw with keywords ['t.me']
+2025-05-15 21:56:46,187 - INFO - Found keywords ['t.me'] in paste 3AWCY0Mw
+2025-05-15 21:56:48,187 - INFO - Processing paste 14/30: archive/javascript
+2025-05-15 21:56:48,978 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:56:50,980 - INFO - Processing paste 15/30: rfSVYtwA
+2025-05-15 21:56:52,395 - INFO - Successfully fetched paste rfSVYtwA
+2025-05-15 21:56:52,397 - INFO - Saved match for paste rfSVYtwA with keywords ['t.me']
+2025-05-15 21:56:52,398 - INFO - Found keywords ['t.me'] in paste rfSVYtwA
+2025-05-15 21:56:54,398 - INFO - Processing paste 16/30: archive/javascript
+2025-05-15 21:56:55,207 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:56:57,209 - INFO - Processing paste 17/30: 3BJigcFk
+2025-05-15 21:56:58,630 - INFO - Successfully fetched paste 3BJigcFk
+2025-05-15 21:56:58,634 - INFO - Saved match for paste 3BJigcFk with keywords ['t.me']
+2025-05-15 21:56:58,634 - INFO - Found keywords ['t.me'] in paste 3BJigcFk
+2025-05-15 21:57:00,634 - INFO - Processing paste 18/30: archive/javascript
+2025-05-15 21:57:01,498 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:57:03,500 - INFO - Processing paste 19/30: rEEqba9Q
+2025-05-15 21:57:04,813 - INFO - Successfully fetched paste rEEqba9Q
+2025-05-15 21:57:04,815 - INFO - Saved match for paste rEEqba9Q with keywords ['t.me']
+2025-05-15 21:57:04,815 - INFO - Found keywords ['t.me'] in paste rEEqba9Q
+2025-05-15 21:57:06,816 - INFO - Processing paste 20/30: archive/javascript
+2025-05-15 21:57:07,573 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:57:09,575 - INFO - Processing paste 21/30: qMvkwcND
+2025-05-15 21:57:10,277 - INFO - Successfully fetched paste qMvkwcND
+2025-05-15 21:57:10,279 - INFO - Saved match for paste qMvkwcND with keywords ['t.me']
+2025-05-15 21:57:10,279 - INFO - Found keywords ['t.me'] in paste qMvkwcND
+2025-05-15 21:57:12,280 - INFO - Processing paste 22/30: archive/javascript
+2025-05-15 21:57:12,982 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:57:14,983 - INFO - Processing paste 23/30: cADwNd41
+2025-05-15 21:57:16,171 - INFO - Successfully fetched paste cADwNd41
+2025-05-15 21:57:16,173 - INFO - Saved match for paste cADwNd41 with keywords ['t.me']
+2025-05-15 21:57:16,173 - INFO - Found keywords ['t.me'] in paste cADwNd41
+2025-05-15 21:57:18,173 - INFO - Processing paste 24/30: archive/javascript
+2025-05-15 21:57:18,841 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:57:20,843 - INFO - Processing paste 25/30: 2TbkpKm7
+2025-05-15 21:57:22,205 - INFO - Successfully fetched paste 2TbkpKm7
+2025-05-15 21:57:22,207 - INFO - Saved match for paste 2TbkpKm7 with keywords ['t.me']
+2025-05-15 21:57:22,207 - INFO - Found keywords ['t.me'] in paste 2TbkpKm7
+2025-05-15 21:57:24,208 - INFO - Processing paste 26/30: archive/javascript
+2025-05-15 21:57:24,893 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:57:26,895 - INFO - Processing paste 27/30: Tu8A2UpV
+2025-05-15 21:57:28,201 - INFO - Successfully fetched paste Tu8A2UpV
+2025-05-15 21:57:28,202 - INFO - No keywords found in paste Tu8A2UpV
+2025-05-15 21:57:30,203 - INFO - Processing paste 28/30: archive/php
+2025-05-15 21:57:31,443 - ERROR - Failed to fetch paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-15 21:57:33,445 - INFO - Processing paste 29/30: wkTiNpT8
+2025-05-15 21:57:34,690 - INFO - Successfully fetched paste wkTiNpT8
+2025-05-15 21:57:34,691 - INFO - Saved match for paste wkTiNpT8 with keywords ['t.me']
+2025-05-15 21:57:34,691 - INFO - Found keywords ['t.me'] in paste wkTiNpT8
+2025-05-15 21:57:36,692 - INFO - Processing paste 30/30: archive/javascript
+2025-05-15 21:57:37,339 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:57:39,341 - INFO - Crawling completed
+2025-05-15 21:59:52,097 - INFO - Starting Pastebin Keyword Crawler
+2025-05-15 21:59:52,851 - INFO - Extracted 30 paste IDs from archive
+2025-05-15 21:59:52,852 - INFO - Processing paste 1/30: A4jnmP5z
+2025-05-15 21:59:54,138 - INFO - Successfully fetched paste A4jnmP5z
+2025-05-15 21:59:54,139 - INFO - Saved match for paste A4jnmP5z with keywords ['t.me']
+2025-05-15 21:59:54,139 - INFO - Found keywords ['t.me'] in paste A4jnmP5z
+2025-05-15 21:59:56,140 - INFO - Processing paste 2/30: archive/javascript
+2025-05-15 21:59:57,397 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 21:59:59,399 - INFO - Processing paste 3/30: jUMZ9zDT
+2025-05-15 22:00:01,238 - INFO - Successfully fetched paste jUMZ9zDT
+2025-05-15 22:00:01,242 - INFO - No keywords found in paste jUMZ9zDT
+2025-05-15 22:00:03,243 - INFO - Processing paste 4/30: archive/powershell
+2025-05-15 22:00:03,916 - ERROR - Failed to fetch paste archive/powershell: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/powershell
+2025-05-15 22:00:05,919 - INFO - Processing paste 5/30: Z9jQHybM
+2025-05-15 22:00:06,695 - INFO - Successfully fetched paste Z9jQHybM
+2025-05-15 22:00:06,697 - INFO - Saved match for paste Z9jQHybM with keywords ['t.me']
+2025-05-15 22:00:06,697 - INFO - Found keywords ['t.me'] in paste Z9jQHybM
+2025-05-15 22:00:08,698 - INFO - Processing paste 6/30: archive/javascript
+2025-05-15 22:00:09,394 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:00:11,396 - INFO - Processing paste 7/30: qtA0N9tB
+2025-05-15 22:00:12,194 - INFO - Successfully fetched paste qtA0N9tB
+2025-05-15 22:00:12,196 - INFO - Saved match for paste qtA0N9tB with keywords ['t.me']
+2025-05-15 22:00:12,196 - INFO - Found keywords ['t.me'] in paste qtA0N9tB
+2025-05-15 22:00:14,197 - INFO - Processing paste 8/30: archive/javascript
+2025-05-15 22:00:14,892 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:00:16,894 - INFO - Processing paste 9/30: wiunGJbF
+2025-05-15 22:00:17,585 - INFO - Successfully fetched paste wiunGJbF
+2025-05-15 22:00:17,587 - INFO - Saved match for paste wiunGJbF with keywords ['t.me']
+2025-05-15 22:00:17,587 - INFO - Found keywords ['t.me'] in paste wiunGJbF
+2025-05-15 22:00:19,587 - INFO - Processing paste 10/30: archive/javascript
+2025-05-15 22:00:20,268 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:00:22,270 - INFO - Processing paste 11/30: 3CBkv6K1
+2025-05-15 22:00:23,554 - INFO - Successfully fetched paste 3CBkv6K1
+2025-05-15 22:00:23,556 - INFO - Saved match for paste 3CBkv6K1 with keywords ['t.me']
+2025-05-15 22:00:23,556 - INFO - Found keywords ['t.me'] in paste 3CBkv6K1
+2025-05-15 22:00:25,557 - INFO - Processing paste 12/30: archive/javascript
+2025-05-15 22:00:26,246 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:00:28,248 - INFO - Processing paste 13/30: fhPpM2A6
+2025-05-15 22:00:29,653 - INFO - Successfully fetched paste fhPpM2A6
+2025-05-15 22:00:29,655 - INFO - Saved match for paste fhPpM2A6 with keywords ['t.me']
+2025-05-15 22:00:29,655 - INFO - Found keywords ['t.me'] in paste fhPpM2A6
+2025-05-15 22:00:31,655 - INFO - Processing paste 14/30: archive/javascript
+2025-05-15 22:00:32,382 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:00:34,384 - INFO - Processing paste 15/30: 3AWCY0Mw
+2025-05-15 22:00:35,081 - INFO - Successfully fetched paste 3AWCY0Mw
+2025-05-15 22:00:35,082 - INFO - Saved match for paste 3AWCY0Mw with keywords ['t.me']
+2025-05-15 22:00:35,082 - INFO - Found keywords ['t.me'] in paste 3AWCY0Mw
+2025-05-15 22:00:37,082 - INFO - Processing paste 16/30: archive/javascript
+2025-05-15 22:00:37,805 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:00:39,807 - INFO - Processing paste 17/30: rfSVYtwA
+2025-05-15 22:00:41,108 - INFO - Successfully fetched paste rfSVYtwA
+2025-05-15 22:00:41,110 - INFO - Saved match for paste rfSVYtwA with keywords ['t.me']
+2025-05-15 22:00:41,110 - INFO - Found keywords ['t.me'] in paste rfSVYtwA
+2025-05-15 22:00:43,111 - INFO - Processing paste 18/30: archive/javascript
+2025-05-15 22:00:43,793 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:00:45,795 - INFO - Processing paste 19/30: 3BJigcFk
+2025-05-15 22:00:47,110 - INFO - Successfully fetched paste 3BJigcFk
+2025-05-15 22:00:47,112 - INFO - Saved match for paste 3BJigcFk with keywords ['t.me']
+2025-05-15 22:00:47,112 - INFO - Found keywords ['t.me'] in paste 3BJigcFk
+2025-05-15 22:00:49,113 - INFO - Processing paste 20/30: archive/javascript
+2025-05-15 22:00:49,781 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:00:51,782 - INFO - Processing paste 21/30: rEEqba9Q
+2025-05-15 22:00:52,577 - INFO - Successfully fetched paste rEEqba9Q
+2025-05-15 22:00:52,579 - INFO - Saved match for paste rEEqba9Q with keywords ['t.me']
+2025-05-15 22:00:52,579 - INFO - Found keywords ['t.me'] in paste rEEqba9Q
+2025-05-15 22:00:54,579 - INFO - Processing paste 22/30: archive/javascript
+2025-05-15 22:00:55,355 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:00:57,357 - INFO - Processing paste 23/30: qMvkwcND
+2025-05-15 22:00:58,082 - INFO - Successfully fetched paste qMvkwcND
+2025-05-15 22:00:58,084 - INFO - Saved match for paste qMvkwcND with keywords ['t.me']
+2025-05-15 22:00:58,084 - INFO - Found keywords ['t.me'] in paste qMvkwcND
+2025-05-15 22:01:00,084 - INFO - Processing paste 24/30: archive/javascript
+2025-05-15 22:01:00,810 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:01:02,812 - INFO - Processing paste 25/30: cADwNd41
+2025-05-15 22:01:04,110 - INFO - Successfully fetched paste cADwNd41
+2025-05-15 22:01:04,111 - INFO - Saved match for paste cADwNd41 with keywords ['t.me']
+2025-05-15 22:01:04,111 - INFO - Found keywords ['t.me'] in paste cADwNd41
+2025-05-15 22:01:06,112 - INFO - Processing paste 26/30: archive/javascript
+2025-05-15 22:01:06,826 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:01:08,828 - INFO - Processing paste 27/30: 2TbkpKm7
+2025-05-15 22:01:09,541 - INFO - Successfully fetched paste 2TbkpKm7
+2025-05-15 22:01:09,543 - INFO - Saved match for paste 2TbkpKm7 with keywords ['t.me']
+2025-05-15 22:01:09,543 - INFO - Found keywords ['t.me'] in paste 2TbkpKm7
+2025-05-15 22:01:11,543 - INFO - Processing paste 28/30: archive/javascript
+2025-05-15 22:01:12,283 - ERROR - Failed to fetch paste archive/javascript: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/javascript
+2025-05-15 22:01:14,285 - INFO - Processing paste 29/30: Tu8A2UpV
+2025-05-15 22:01:15,213 - INFO - Successfully fetched paste Tu8A2UpV
+2025-05-15 22:01:15,214 - INFO - No keywords found in paste Tu8A2UpV
+2025-05-15 22:01:17,214 - INFO - Processing paste 30/30: archive/php
+2025-05-15 22:01:17,772 - ERROR - Failed to fetch paste archive/php: 404 Client Error: Not Found for url: https://pastebin.com/raw/archive/php
+2025-05-15 22:01:19,774 - INFO - Crawling completed
+2025-05-15 22:07:16,640 - INFO - Starting Pastebin Keyword Crawler
+2025-05-15 22:07:18,024 - INFO - Extracted 30 paste IDs from archive
+2025-05-15 22:07:18,026 - INFO - Processing paste 1/30: F60yKhUe
+2025-05-15 22:07:19,265 - INFO - Successfully fetched paste F60yKhUe
+2025-05-15 22:07:19,269 - INFO - Saved match for paste F60yKhUe with keywords ['t.me']
+2025-05-15 22:07:19,270 - INFO - Found keywords ['t.me'] in paste F60yKhUe
+2025-05-15 22:07:21,271 - INFO - Processing paste 2/30: C3Fs5FAC
+2025-05-15 22:07:22,643 - INFO - Successfully fetched paste C3Fs5FAC
+2025-05-15 22:07:22,645 - INFO - Saved match for paste C3Fs5FAC with keywords ['t.me']
+2025-05-15 22:07:22,645 - INFO - Found keywords ['t.me'] in paste C3Fs5FAC
+2025-05-15 22:07:24,646 - INFO - Processing paste 3/30: 3LCH21wE
+2025-05-15 22:07:25,953 - INFO - Successfully fetched paste 3LCH21wE
+2025-05-15 22:07:25,954 - INFO - No keywords found in paste 3LCH21wE
+2025-05-15 22:07:27,955 - INFO - Processing paste 4/30: A4jnmP5z
+2025-05-15 22:07:29,394 - INFO - Successfully fetched paste A4jnmP5z
+2025-05-15 22:07:29,396 - INFO - Saved match for paste A4jnmP5z with keywords ['t.me']
+2025-05-15 22:07:29,396 - INFO - Found keywords ['t.me'] in paste A4jnmP5z
+2025-05-15 22:07:31,397 - INFO - Processing paste 5/30: jUMZ9zDT
+2025-05-15 22:07:33,420 - INFO - Successfully fetched paste jUMZ9zDT
+2025-05-15 22:07:33,423 - INFO - No keywords found in paste jUMZ9zDT
+2025-05-15 22:07:35,423 - INFO - Processing paste 6/30: Z9jQHybM
+2025-05-15 22:07:36,803 - INFO - Successfully fetched paste Z9jQHybM
+2025-05-15 22:07:36,805 - INFO - Saved match for paste Z9jQHybM with keywords ['t.me']
+2025-05-15 22:07:36,805 - INFO - Found keywords ['t.me'] in paste Z9jQHybM
+2025-05-15 22:07:38,806 - INFO - Processing paste 7/30: qtA0N9tB
+2025-05-15 22:07:40,209 - INFO - Successfully fetched paste qtA0N9tB
+2025-05-15 22:07:40,211 - INFO - Saved match for paste qtA0N9tB with keywords ['t.me']
+2025-05-15 22:07:40,212 - INFO - Found keywords ['t.me'] in paste qtA0N9tB
+2025-05-15 22:07:42,212 - INFO - Processing paste 8/30: wiunGJbF
+2025-05-15 22:07:43,581 - INFO - Successfully fetched paste wiunGJbF
+2025-05-15 22:07:43,585 - INFO - Saved match for paste wiunGJbF with keywords ['t.me']
+2025-05-15 22:07:43,585 - INFO - Found keywords ['t.me'] in paste wiunGJbF
+2025-05-15 22:07:45,586 - INFO - Processing paste 9/30: 3CBkv6K1
+2025-05-15 22:07:47,013 - INFO - Successfully fetched paste 3CBkv6K1
+2025-05-15 22:07:47,015 - INFO - Saved match for paste 3CBkv6K1 with keywords ['t.me']
+2025-05-15 22:07:47,016 - INFO - Found keywords ['t.me'] in paste 3CBkv6K1
+2025-05-15 22:07:49,016 - INFO - Processing paste 10/30: fhPpM2A6
+2025-05-15 22:07:49,803 - INFO - Successfully fetched paste fhPpM2A6
+2025-05-15 22:07:49,805 - INFO - Saved match for paste fhPpM2A6 with keywords ['t.me']
+2025-05-15 22:07:49,805 - INFO - Found keywords ['t.me'] in paste fhPpM2A6
+2025-05-15 22:07:51,806 - INFO - Processing paste 11/30: 3AWCY0Mw
+2025-05-15 22:07:52,248 - INFO - Successfully fetched paste 3AWCY0Mw
+2025-05-15 22:07:52,250 - INFO - Saved match for paste 3AWCY0Mw with keywords ['t.me']
+2025-05-15 22:07:52,250 - INFO - Found keywords ['t.me'] in paste 3AWCY0Mw
+2025-05-15 22:07:54,250 - INFO - Processing paste 12/30: rfSVYtwA
+2025-05-15 22:07:54,734 - INFO - Successfully fetched paste rfSVYtwA
+2025-05-15 22:07:54,735 - INFO - Saved match for paste rfSVYtwA with keywords ['t.me']
+2025-05-15 22:07:54,736 - INFO - Found keywords ['t.me'] in paste rfSVYtwA
+2025-05-15 22:07:56,736 - INFO - Processing paste 13/30: 3BJigcFk
+2025-05-15 22:07:57,100 - INFO - Successfully fetched paste 3BJigcFk
+2025-05-15 22:07:57,102 - INFO - Saved match for paste 3BJigcFk with keywords ['t.me']
+2025-05-15 22:07:57,102 - INFO - Found keywords ['t.me'] in paste 3BJigcFk
+2025-05-15 22:07:59,103 - INFO - Processing paste 14/30: rEEqba9Q
+2025-05-15 22:07:59,633 - INFO - Successfully fetched paste rEEqba9Q
+2025-05-15 22:07:59,636 - INFO - Saved match for paste rEEqba9Q with keywords ['t.me']
+2025-05-15 22:07:59,636 - INFO - Found keywords ['t.me'] in paste rEEqba9Q
+2025-05-15 22:08:01,638 - INFO - Processing paste 15/30: qMvkwcND
+2025-05-15 22:08:03,169 - INFO - Successfully fetched paste qMvkwcND
+2025-05-15 22:08:03,172 - INFO - Saved match for paste qMvkwcND with keywords ['t.me']
+2025-05-15 22:08:03,176 - INFO - Found keywords ['t.me'] in paste qMvkwcND
+2025-05-15 22:08:05,177 - INFO - Processing paste 16/30: cADwNd41
+2025-05-15 22:08:06,698 - INFO - Successfully fetched paste cADwNd41
+2025-05-15 22:08:06,701 - INFO - Saved match for paste cADwNd41 with keywords ['t.me']
+2025-05-15 22:08:06,702 - INFO - Found keywords ['t.me'] in paste cADwNd41
+2025-05-15 22:08:08,702 - INFO - Processing paste 17/30: 2TbkpKm7
+2025-05-15 22:08:10,152 - INFO - Successfully fetched paste 2TbkpKm7
+2025-05-15 22:08:10,153 - INFO - Saved match for paste 2TbkpKm7 with keywords ['t.me']
+2025-05-15 22:08:10,154 - INFO - Found keywords ['t.me'] in paste 2TbkpKm7
+2025-05-15 22:08:12,154 - INFO - Processing paste 18/30: Tu8A2UpV
+2025-05-15 22:08:13,545 - INFO - Successfully fetched paste Tu8A2UpV
+2025-05-15 22:08:13,547 - INFO - No keywords found in paste Tu8A2UpV
+2025-05-15 22:08:15,547 - INFO - Processing paste 19/30: wkTiNpT8
+2025-05-15 22:08:16,909 - INFO - Successfully fetched paste wkTiNpT8
+2025-05-15 22:08:16,911 - INFO - Saved match for paste wkTiNpT8 with keywords ['t.me']
+2025-05-15 22:08:16,911 - INFO - Found keywords ['t.me'] in paste wkTiNpT8
+2025-05-15 22:08:18,912 - INFO - Processing paste 20/30: 4SmfNuet
+2025-05-15 22:08:20,287 - INFO - Successfully fetched paste 4SmfNuet
+2025-05-15 22:08:20,289 - INFO - Saved match for paste 4SmfNuet with keywords ['t.me']
+2025-05-15 22:08:20,289 - INFO - Found keywords ['t.me'] in paste 4SmfNuet
+2025-05-15 22:08:22,290 - INFO - Processing paste 21/30: aUEi97Em
+2025-05-15 22:08:23,803 - INFO - Successfully fetched paste aUEi97Em
+2025-05-15 22:08:23,805 - INFO - Saved match for paste aUEi97Em with keywords ['t.me']
+2025-05-15 22:08:23,805 - INFO - Found keywords ['t.me'] in paste aUEi97Em
+2025-05-15 22:08:25,806 - INFO - Processing paste 22/30: T6CKzQFc
+2025-05-15 22:08:26,696 - INFO - Successfully fetched paste T6CKzQFc
+2025-05-15 22:08:26,700 - INFO - Saved match for paste T6CKzQFc with keywords ['t.me']
+2025-05-15 22:08:26,700 - INFO - Found keywords ['t.me'] in paste T6CKzQFc
+2025-05-15 22:08:28,700 - INFO - Processing paste 23/30: Qx7qCvNT
+2025-05-15 22:08:30,141 - INFO - Successfully fetched paste Qx7qCvNT
+2025-05-15 22:08:30,144 - INFO - Saved match for paste Qx7qCvNT with keywords ['t.me']
+2025-05-15 22:08:30,144 - INFO - Found keywords ['t.me'] in paste Qx7qCvNT
+2025-05-15 22:08:32,144 - INFO - Processing paste 24/30: SDCr7HTy
+2025-05-15 22:08:33,414 - INFO - Successfully fetched paste SDCr7HTy
+2025-05-15 22:08:33,424 - INFO - Saved match for paste SDCr7HTy with keywords ['t.me']
+2025-05-15 22:08:33,425 - INFO - Found keywords ['t.me'] in paste SDCr7HTy
+2025-05-15 22:08:35,426 - INFO - Processing paste 25/30: fCTjbxx1
+2025-05-15 22:08:36,117 - INFO - Successfully fetched paste fCTjbxx1
+2025-05-15 22:08:36,120 - INFO - Saved match for paste fCTjbxx1 with keywords ['t.me']
+2025-05-15 22:08:36,120 - INFO - Found keywords ['t.me'] in paste fCTjbxx1
+2025-05-15 22:08:38,121 - INFO - Processing paste 26/30: u94ujC72
+2025-05-15 22:08:39,449 - INFO - Successfully fetched paste u94ujC72
+2025-05-15 22:08:39,452 - INFO - Saved match for paste u94ujC72 with keywords ['t.me']
+2025-05-15 22:08:39,452 - INFO - Found keywords ['t.me'] in paste u94ujC72
+2025-05-15 22:08:41,453 - INFO - Processing paste 27/30: kKXWYsb7
+2025-05-15 22:08:42,828 - INFO - Successfully fetched paste kKXWYsb7
+2025-05-15 22:08:42,832 - INFO - Saved match for paste kKXWYsb7 with keywords ['t.me']
+2025-05-15 22:08:42,832 - INFO - Found keywords ['t.me'] in paste kKXWYsb7
+2025-05-15 22:08:44,833 - INFO - Processing paste 28/30: aV0d3W3D
+2025-05-15 22:08:45,618 - INFO - Successfully fetched paste aV0d3W3D
+2025-05-15 22:08:45,620 - INFO - Saved match for paste aV0d3W3D with keywords ['t.me']
+2025-05-15 22:08:45,621 - INFO - Found keywords ['t.me'] in paste aV0d3W3D
+2025-05-15 22:08:47,621 - INFO - Processing paste 29/30: Ks5NT3mL
+2025-05-15 22:08:47,984 - INFO - Successfully fetched paste Ks5NT3mL
+2025-05-15 22:08:47,986 - INFO - Saved match for paste Ks5NT3mL with keywords ['t.me']
+2025-05-15 22:08:47,987 - INFO - Found keywords ['t.me'] in paste Ks5NT3mL
+2025-05-15 22:08:49,987 - INFO - Processing paste 30/30: 9QuJWJGa
+2025-05-15 22:08:51,258 - INFO - Successfully fetched paste 9QuJWJGa
+2025-05-15 22:08:51,261 - INFO - Saved match for paste 9QuJWJGa with keywords ['t.me']
+2025-05-15 22:08:51,262 - INFO - Found keywords ['t.me'] in paste 9QuJWJGa
+2025-05-15 22:08:53,263 - INFO - Crawling completed
